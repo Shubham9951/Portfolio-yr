@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+
+body {
+    background-color: rgb(16, 40, 226);
+    margin: 0;
+    padding: 0;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.904), rgba(0, 0, 0, 0.200)),
+      url(https://img.freepik.com/free-vector/brick-wall-realistic_1284-4683.jpg?size=626&ext=jpg&ga=GA1.1.1875841240.1698575258&semt=ais);
+      font-family: 'Playfair Display', serif;
+}
+
+
+header {
+    background-color: rgba(0, 0, 0, 0.803);
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+h1 {
+    font-size: 2.5em;
+}
+
+p {
+    font-size: 1.2em;
+}
+
+section {
+    margin: 20px;
+    padding: 20px;
+    background-color: white;
+}
+
+h3 {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+h4 {
+    font-size: 1.5em;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+}
+
+footer {
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.803);
+    color: white;
+    padding: 10px;
+}
